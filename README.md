@@ -1,5 +1,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=amulyavarshney" alt="visitor" >
 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{amulyavarshney}/count.svg) -->
+
 <h2 title="hehehe"> Hey 👋, I'm Amulya!</h2>
 
 <a href="https://www.linkedin.com/in/varamu/">
@@ -40,7 +42,8 @@ I am currently pursuing **Computer Science and Engineering** in **International 
 - <b><i>Languages :</i></b> Python, C/C++, Java
 - <b><i>Frameworks/Libraries :</i></b> Django, FastAPI
  
-
+<img align="right" alt="Amulya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyavarshney&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" />
+  
 ## Also Familiar | Worked With 
 
 - <b><i>Languages :</i></b> JavaScript, Dart, Shell Script
@@ -136,7 +139,7 @@ I am currently pursuing **Computer Science and Engineering** in **International 
 
 ## Interests
 
-- Competetive Programming
+- Competitive Programming
 - System Design & Architecture
 - Blockchain Technology
 - Blogging
@@ -149,7 +152,13 @@ I am currently pursuing **Computer Science and Engineering** in **International 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyavarshney&theme=react&count_private=true" >
 <p/>
 
-![](https://activity-graph.herokuapp.com/graph?username=amulyavarshney&theme=react-dark)
+<details>
+  <summary>:zap: Contribution Graph</summary>
+
+  <img align="left" alt="Amulya's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=amulyavarshney&theme=react-dark" />
+
+</details>
+
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/varamu/"><img align="center" alt="LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" /></a>
