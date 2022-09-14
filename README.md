@@ -14,7 +14,7 @@
   <img align="left" alt="Instagram" width="24px" src="https://img.icons8.com/nolan/64/parse-resumes.png"/>
 </a>
 <a href="https://leetcode.com/VarAmu/">
-  <img align="left" alt="LeetCode" width="24px" src="https://img.icons8.com/nolan/64/source-code.png" />
+  <img align="left" alt="LeetCode" width="24px" src="https://img.icons8.com/nolan/64/parse-resumes.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/amulyavarshney786/">
   <img align="left" alt="GeeksForGeeks" width="24px" src="https://img.icons8.com/nolan/64/g.png" />
@@ -29,17 +29,17 @@
 - 👨🏽‍💻 An Undergraduate 3rd year student at IIIT Naya Raipur.
 - 🎓 Computer Science and Engineering
 - 🌱 I’m currently learning Backend Development.
-- 👨‍💻 Ex-Samsung Research Intern 
+- 👨‍💻 Intern @ Hackerearth, Ex-R&D Intern @ Samsung Research Institute, Ex-SDE Intern @ DataChannel Technologies 
 - 💬 Neat-freak!
 - 📫 Reach me at [amulyavarshney7@gmail.com](mailto:amulyavarshney7@gmail.com).
 
 I am currently pursuing **Computer Science and Engineering** in **International Institute of Information Technology, Naya Raipur**,Chattisgarh :India: I'm a passionate tech enthusiast. I love to write code, solving problems and learn new technologies. I'm a programmer as well as software developer. I also try to contribute in open source projects. I have interest in building system applications and tools. I strive to ensure that I am always paying close attention to detail and ensuring that my work is nothing short of my best at all times. Beside's developing stuff, I enjoy listening music 🎧, reading books 📚, and traveling 🏝️🗻.
 <br />
-<a href = "https://amulyavarshney.github.io/cv" >Here is my CV.</a>
+<!-- <a href = "https://amulyavarshney.github.io/cv" >Here is my CV.</a> -->
 
 ## Proficient In :
 
-- <b><i>Languages :</i></b> Python, C/C++, Java
+- <b><i>Languages :</i></b> Python, C/C++, Java, JavaScript, Solidity
 - <b><i>Frameworks/Libraries :</i></b> Django, FastAPI
  
 <img align="right" alt="Amulya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyavarshney&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" />
