@@ -28,31 +28,32 @@
 
 **About Me!**
 
-- 👨🏽‍💻 An Undergraduate final year student at IIIT Naya Raipur.
-- 🎓 Computer Science and Engineering
-- 🌱 I’m currently learning Backend Development.
-- 👨‍💻 Intern @ Zeiss Vision Care India, Ex-Intern @ Hackerearth, Ex-R&D Intern @ Samsung R&D Institute, Ex-SDE Intern @ DataChannel
+- 👨🏽‍💻 Software Engineer at Carl Zeiss AG (Zeiss Group)
+- 🎓 Graduated in Computer Science and Engineering from IIIT Naya Raipur.
+- 🌱 I’m currently learning Full Stack Development.
+- 👨‍💻 Ex-Intern @ Zeiss India, Ex-Intern @ Hackerearth, Ex-R&D Intern @ Samsung R&D Institute, Ex-SDE Intern @ DataChannel
 - 💬 Neat-freak!
 - 📫 Reach me at [amulyavarshney7@gmail.com](mailto:amulyavarshney7@gmail.com).
 
-I am currently pursuing **Computer Science and Engineering** in **International Institute of Information Technology, Naya Raipur**, Chattisgarh India. I'm a passionate tech enthusiast. I love to write code, solving problems and learn new technologies. I'm a programmer as well as software developer. I also try to contribute in open source projects. I have interest in building system applications and tools. I strive to ensure that I am always paying close attention to detail and ensuring that my work is nothing short of my best at all times. Beside's developing stuff, I enjoy listening music 🎧, reading books 📚, and traveling 🏝️🗻.
+I am currently working as a **Software Engineer** at **Carl Zeiss AG (Zeiss Group)** and I have completed my graduation in **Computer Science and Engineering** from **International Institute of Information Technology, Naya Raipur**, Chattisgarh India. I'm a passionate tech enthusiast. I love to write code, solving problems and learn new technologies. I'm a programmer as well as software developer. I also try to contribute in personal and open source projects. I have interest in building web applications and tools. I strive to ensure that I am always paying close attention to detail and ensuring that my work is nothing short of my best at all times. Beside's developing stuff, I enjoy listening music 🎧, reading books 📚, and traveling 🏝️🗻.
 <br />
 <!-- <a href = "https://amulyavarshney.github.io/cv" >Here is my CV.</a> -->
 
 ## Proficient In :
 
-- <b><i>Languages :</i></b> Python, C#, JavaScript
-- <b><i>Frameworks/Libraries :</i></b> Django, FastAPI, Asp.Net Core
+- <b><i>Languages :</i></b> Python, C, C++, C#, JavaScript, TypeScript, Java
+- <b><i>Frameworks/Libraries :</i></b> React, Node.js, Next.js, Tailwind CSS, FastAPI, .NET Core
 
 ## Also Familiar | Worked With 
 
-- <b><i>Languages :</i></b> C/C++, Java, Solidity, Shell Script
+- <b><i>Languages :</i></b> Solidity, Shell Script
 - <b><i>Markup & Design :</i></b> HTML5, CSS3
-- <b><i>Tools & Frameworks :</i></b> Node.js, React.js, Express.js, Web3.js, Django, Flask, FastAPI
-- <b><i>Database :</i></b> MySQL, Sqlite, MS SQL Server, PostgreSql, MongoDB
+- <b><i>Tools & Frameworks :</i></b> Express.js, Web3.js, Django, Flask
+- <b><i>Database :</i></b> MySQL, Sqlite, MS SQL, PostgreSql, MongoDB
+- <b><i>Cloud :</i></b> Microsoft Azure, AWS
 - <b><i>Version Control System :</i></b> git (GitHub, GitLab)
 - <b><i>Tools :</i></b> Docker, LaTeX
-- <b><i>Interest :</i></b> Data Structure & Algorithms, Problem Solving, Competitive Programming, System Design and Architecture, Blockchain Technology
+- <b><i>Interest :</i></b> Data Structure & Algorithms, Problem Solving, Competitive Programming, Object Oriented Design and Architecture, Design Principles, Blockchain Technology
 
   [![Amulya's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amulyavarshney&show_icons=true&hide_border=true&count_private=true&theme=transparent)](https://github.com/amulyavarshney/github-readme-stats)
   
