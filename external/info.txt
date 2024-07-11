@@ -1,0 +1,7 @@
+// Libraries
+1) Icons https://boxicons.com/
+2) Fonts: https://fonts.google.com/ 
+3) Mixitup: https://www.kunkalabs.com/mixitup/
+4) Swiper: https://swiperjs.com/
+5) ScrollReveal: https://scrollrevealjs.org/
+6) Dopely: https://colors.dopely.top/color-pedia

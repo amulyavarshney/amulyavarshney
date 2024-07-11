@@ -1,0 +1,272 @@
+{
+  "nickname": "Amulya",
+  "greeting_msg": "Hello, I'm",
+  "name": "Amulya Varshney",
+  "role": "Software Engineer - Carl Zeiss AG, India",
+  "experience": "Experience",
+  "experience_value": "1+ Year",
+  "completed": "Completed",
+  "completed_value": "10+ Projects",
+  "worked": "Worked",
+  "worked_value": "3+ Companies",
+  "about_description": "Highly motivated Software Engineer, working on full stack development. Loves creating complex Web Applications and combining them into fully functional apps. Familiar with Cloud and Distributed Systems",
+  "download_cv": "Download CV",
+  "contact_me": "Contact Me",
+
+  "skills_title": "Skills",
+  "skills_subtitle": "My Technical Level",
+  "skills_content": [
+    {
+      "title": "Programming Languages",
+      "subtitle": "More than 5 years",
+      "logo": "bx bx-code-alt",
+      "data": [
+        {
+          "name": "Python",
+          "number": "90%"
+        },
+        {
+          "name": "C#",
+          "number": "85%"
+        },
+        {
+          "name": "C/C++",
+          "number": "75%"
+        },
+        {
+          "name": "JavaScript/TypeScript",
+          "number": "80%"
+        },
+        {
+          "name": "Java",
+          "number": "70%"
+        }
+      ]
+    },
+    {
+      "title": "Frontend",
+      "subtitle": "More than 2 year",
+      "logo": "bx bx-code-alt",
+      "data": [
+        {
+          "name": "HTML/CSS",
+          "number": "90%"
+        },
+        {
+          "name": "JavaScript/TYpeScript",
+          "number": "90%"
+        },
+        {
+          "name": "React.js",
+          "number": "80%"
+        },
+        {
+          "name": "Next.js",
+          "number": "90%"
+        }
+      ]
+    },
+    {
+      "title": "Backend",
+      "subtitle": "More than 2 year",
+      "logo": "bx bxs-server",
+      "data": [
+        {
+          "name": "Node.js",
+          "number": "80%"
+        },
+        {
+          "name": "Django",
+          "number": "75%"
+        },
+        {
+          "name": "FastAPI",
+          "number": "90%"
+        }
+      ]
+    }
+  ],
+
+  "qualification_title": "Qualification",
+  "qualification_subtitle": "My Personal Journey",
+  "qualification_tabs": [
+    {
+      "name": "Education",
+      "logo": "bx bxs-graduation",
+      "data": [
+        {
+          "title": "B.Tech in CSE",
+          "subtitle": "IIIT - Naya Raipur",
+          "calender": "2019-2023"
+        },
+        {
+          "title": "Professional Diploma",
+          "subtitle": "HBTU Kanpur",
+          "calender": "2018-2019"
+        },
+        {
+          "title": "Intermediate School",
+          "subtitle": "K. H. M. C. Bahjoi",
+          "calender": "2015-2017"
+        },
+        {
+          "title": "High School",
+          "subtitle": "S. H. C. S. Chandausi",
+          "calender": "2013-2015"
+        }
+      ]
+    },
+    {
+      "name": "Work",
+      "logo": "bx bxs-briefcase",
+      "data": [
+        {
+          "title": "Software Engineer",
+          "subtitle": "Zeiss - India",
+          "calender": "Jul 2023 - Present"
+        },
+        {
+          "title": "Software Engineer Intern",
+          "subtitle": "Zeiss - India",
+          "calender": "Jan 2023 - Jun 2023"
+        },
+        {
+          "title": "Full Stack Developer Intern",
+          "subtitle": "Hackerearth - India",
+          "calender": "Mar 2022 - Dec 2022"
+        },
+        {
+          "title": "R&D Intern",
+          "subtitle": "Samsung R&D Institute (SRI-B)",
+          "calender": "Aug 2021 - Feb 2022"
+        },
+        {
+          "title": "SDE Intern",
+          "subtitle": "Datachannel - India",
+          "calender": "Mar 2021 - Jun 2021"
+        }
+      ]
+    }
+  ],
+
+  "experience_title": "Experience",
+  "experience_subtitle": "My Abilities",
+  "experience_content": [
+    {
+      "title": "Software Engineer",
+      "subtitle": "Zeiss",
+      "data": [
+        {
+          "name": "Languages",
+          "level": "C#, JavaScript, TypeScript"
+        },
+        {
+          "name": "Web Development",
+          "level": "React, Next.js, Node.js, Tailwind CSS"
+        },
+        {
+          "name": "Backend Development",
+          "level": "ASP.NET, .NET Core, Entity Framework"
+        },
+        {
+          "name": "Microservice Communication",
+          "level": "REST API, RabbitMQ, gRPC"
+        },
+        {
+          "name": "Database",
+          "level": "MS SQL, SSMS, MongoDB"
+        },
+        {
+          "name": "Cloud Infrastructure",
+          "level": "Microsoft Azure"
+        },
+        {
+          "name": "Internal Tools",
+          "level": "Zeiss ID, Global Mail API"
+        },
+        {
+          "name": "Version Control",
+          "level": "Git, Azure DevOps"
+        },
+        {
+          "name": "API Documentation",
+          "level": "Postman, Swagger"
+        }
+      ]
+    },
+    {
+      "title": "Full Stack Developer",
+      "subtitle": "Hackerearth",
+      "data": [
+        {
+          "name": "Languages",
+          "level": "Python, JavaScript"
+        },
+        {
+          "name": "Frameworks",
+          "level": "jQuery, Django, FastAPI"
+        },
+        {
+          "name": "Database",
+          "level": "SQL, MongoDB"
+        },
+        {
+          "name": "Internal Tools",
+          "level": "Code Checker, Code Factory Server"
+        },
+        {
+          "name": "Cloud Infrastructure",
+          "level": "AWS"
+        },
+        {
+          "name": "Tools and Platform",
+          "level": "Linux, Docker, Bash Script"
+        }
+      ]
+    }
+  ],
+
+  "android_development": "Android Development",
+  "languages": "Languages",
+  "design_patterns": "Design Patterns",
+  "design_patterns_more": "(MVI/MVP/MVC/MVVM)",
+  "database": "Database",
+  "database_more": "(Room, Firebase)",
+  "version_control": "Version Control",
+  "version_control_more": "(Git, GitHub & GitLab)",
+  "open_gl": "OpenGL",
+  "advanced": "Advanced",
+  "api": "API",
+  "api_more": "(Retrofit2, Volley, Moshi, GSON)",
+  "unit_tests": "Unit Tests",
+  "unit_tests_more": "(Unit, UI, End-to-End)",
+  "dependency_injection": "Dependency Injection",
+  "dependency_injection_more": "Dagger2, Hilt",
+  
+  "my_portfolio": "My Portfolio",
+  "recent_projects": "Recent Projects",
+  "all": "All",
+  "web": "Web",
+  "backend": "Backend",
+  "design": "Design",
+
+  "get_in_touch": "Get In Touch",
+  "popular_links": "Popular Links",
+  "write_me": "Write me",
+  "email": "Email",
+  "linked_in": "Linkedin",
+  "messanger": "X (Twitter)",
+  "send_direct_message": "Send Direct Message",
+  "form_name": "Name",
+  "form_email": "Email",
+  "form_subject": "Subject",
+  "form_message": "Message",
+  "send_message": "Send Message",
+  "email_hint": "Enter your Email Address",
+  "subject_hint": "Enter the Subject",
+  "message_hint": "Write your message here",
+  "about": "About",
+  "projects": "Projects",
+  "experiences": "Experiences",
+  "copyright": "&#169; Amulya Varshney. All right reserved"
+}
