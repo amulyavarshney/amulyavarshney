@@ -44,10 +44,10 @@ I'm a Software Development Engineer with a passion for building innovative, AI-d
 
 **About Me!**
 
-- 👨🏽‍💻 Software Development Engineer 2 (SDE 2) at DP World.
+- 👨🏽‍💻 Software Development Engineer 2 (SDE 2) at Intuit.
 - 🎓 Graduated in Computer Science and Engineering from IIIT Naya Raipur.
 - 🌱 I’m currently learning LLMOps.
-- 👨‍💻 Ex-SDE @Razorpay @Zeiss, Ex-Intern @Hackerearth @Samsung, @DataChannel
+- 👨‍💻 Ex-SDE @Razorpay @Zeiss
 - 💬 Neat-freak!
 - ✨ Problem Solving, Full-Stack Development, Generative AI, AI-driven Systems, Design Patterns
 - 📫 Reach me at [amulyavarshney7@gmail.com](mailto:amulyavarshney7@gmail.com).
