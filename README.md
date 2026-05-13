@@ -44,12 +44,12 @@ I'm a Software Development Engineer with a passion for building innovative, AI-d
 
 **About Me!**
 
-- 👨🏽‍💻 Software Development Engineer 2 (SDE 2) at Intuit.
+- 👨🏽‍💻 Software Engineer 2  - Applied AI (SDE 2) at Intuit.
 - 🎓 Graduated in Computer Science and Engineering from IIIT Naya Raipur.
 - 🌱 I’m currently learning LLMOps.
 - 👨‍💻 Ex-SDE @Razorpay @Zeiss
 - 💬 Neat-freak!
-- ✨ Problem Solving, Full-Stack Development, Generative AI, AI-driven Systems, Design Patterns
+- ✨ Problem Solving, Generative AI, AI-driven Systems, Full-Stack Development, Design Patterns
 - 📫 Reach me at [amulyavarshney7@gmail.com](mailto:amulyavarshney7@gmail.com).
 
 <!-- <a href = "https://amulyavarshney.github.io/cv" >Here is my CV.</a> -->
@@ -142,7 +142,7 @@ Here are some of the technologies I'm proficient in and enjoy working with:
 <div align="left">
 <h2>💻 Professional Experience</h2>
 
-- Software Development Engineer 2 @ DP World (May 2025 - Present)
+- Software Engineer 2 - Applied AI @ Intuit (May 2025 - Present)
 - Software Development Engineer @ Razorpay (Aug 2024 - May 2025)
 - Software Engineer @ Zeiss (Jul 2023 - Jul 2024)
 
