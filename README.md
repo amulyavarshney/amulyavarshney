@@ -3,6 +3,11 @@ Hello! You've found the source code for my GitHub profile.
 Feel free to take inspiration from it, but please give credit.
 -->
 
+<!-- Top Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Amulya%20Varshney&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE%202%20%7C%20Applied%20AI%20%7C%20Full-Stack%20%7C%20GenAI&descAlignY=55&descAlign=50" alt="header" />
+</div>
+
 <!-- Visitor Badge -->
 <div align="center">
 
@@ -12,7 +17,12 @@ Feel free to take inspiration from it, but please give credit.
 
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Amulya Varshney</h1>
-<h3 align="center">SDE 2 · Applied AI @ Intuit · Full-Stack · Generative AI</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=SDE+2+%E2%80%A2+Applied+AI+%40+Intuit;Full-Stack+Engineer+%7C+3%2B+Years;Generative+AI+%26+LLMOps+Builder;Competitive+Programmer+%7C+CF+Expert;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/varamu/" target="_blank">
@@ -174,6 +184,38 @@ I'm an active competitive programmer and love solving challenging algorithmic pr
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyavarshney/amulyavarshney/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amulyavarshney/amulyavarshney/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amulyavarshney/amulyavarshney/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Amulya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amulyavarshney&theme=react-dark&hide_border=true&area=true)](https://github.com/amulyavarshney)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amulyavarshney&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/amulyavarshney)
+
+</div>
+
+---
+
 ## 🗂️ Featured Projects
 
 | Project | Category | Stack |
@@ -186,4 +228,58 @@ I'm an active competitive programmer and love solving challenging algorithmic pr
 
 ---
 
+---
+
+## ⚡ Fun Facts & Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+**🔭 Currently building:**
+- Agentic AI workflows at Intuit
+- LLMOps tooling & observability pipelines
+
+**📚 Currently learning:**
+- Advanced RAG patterns & evaluation
+- Multi-agent orchestration frameworks
+
+**🎯 Goals for 2025:**
+- Contribute to an OSS AI/LLM project
+- Publish a technical blog on Agentic AI
+
+</td>
+<td width="50%">
+
+**💡 Quick facts:**
+- 🏆 Google Kickstart Global Rank **209**
+- 🤖 Building AI agents that actually work in production
+- 🌐 Blockchain & Web3 side-project explorer
+- ☕ Fueled by coffee and clean code
+- 🎮 Competitive programmer at heart
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 💬 Dev Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
 ⭐️ More on my portfolio: [amulyavarshney.github.io](https://amulyavarshney.github.io/)
+
+**Thanks for visiting! Drop a ⭐ if you find something useful.**
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer)
+
+</div>
