@@ -4,19 +4,15 @@ Feel free to take inspiration from it, but please give credit.
 -->
 
 <!-- Visitor Badge -->
-
 <div align="center">
 
-![Amulya's Github Profile Views](https://komarev.com/ghpvc/?username=amulyavarshney)
+![Amulya's Github Profile Views](https://komarev.com/ghpvc/?username=amulyavarshney&style=for-the-badge&color=0e75b6)
+
 </div>
 
 <!-- Header -->
-
 <h1 align="center">Hey 👋, I'm Amulya Varshney</h1>
-<h3 align="center">SDE 2 | Full-Stack Developer | AI Enthusiast</h3>
-<h4 align="center">A passionate Software Engineer creating AI-driven systems and scalable full-stack solutions.</h4>
-
-<!-- Social Links -->
+<h3 align="center">SDE 2 · Applied AI @ Intuit · Full-Stack · Generative AI</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/varamu/" target="_blank">
@@ -31,56 +27,63 @@ Feel free to take inspiration from it, but please give credit.
     <a href="https://leetcode.com/VarAmu/" target="_blank">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
     </a>
-</p>
+    <a href="https://amulyavarshney.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+    </a>
+</div>
 
-<!-- About Me Section -->
-
-<p align="center">
-I'm a Software Development Engineer with a passion for building innovative, AI-driven systems and scalable full-stack applications. I thrive on solving complex problems and continuously learning new technologies.
-</p>
+<br>
 
 <div align="left">
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" />
 
 **About Me!**
 
-- 👨🏽‍💻 Software Engineer 2  - Applied AI (SDE 2) at Intuit.
-- 🎓 Graduated in Computer Science and Engineering from IIIT Naya Raipur.
-- 🌱 I’m currently learning LLMOps.
-- 👨‍💻 Ex-SDE @Razorpay @Zeiss
-- 💬 Neat-freak!
-- ✨ Problem Solving, Generative AI, AI-driven Systems, Full-Stack Development, Design Patterns
-- 📫 Reach me at [amulyavarshney7@gmail.com](mailto:amulyavarshney7@gmail.com).
+- 👨🏽‍💻 **SDE 2 – Applied AI** at **Intuit** (May 2025 – Present)
+- 🎓 B.Tech in CSE from **IIIT Naya Raipur** (2019 – 2023)
+- 🌱 Currently deep-diving into **LLMOps & Agentic AI**
+- 👨‍💻 Ex-SDE @ **Razorpay** · Ex-SWE @ **Zeiss** · Samsung R&D · Hackerearth
+- ✨ Passionate about **Generative AI, AI-driven Systems, Full-Stack Development**
+- 💬 Neat-freak | Problem Solver | Design Patterns enthusiast
+- 📫 Reach me at [amulyavarshney7@gmail.com](mailto:amulyavarshney7@gmail.com)
 
-<!-- <a href = "https://amulyavarshney.github.io/cv" >Here is my CV.</a> -->
 </div>
 
 <br>
 
-🚀 My Tech Stack
-Here are some of the technologies I'm proficient in and enjoy working with:
+---
+
+## 🚀 Tech Stack
 
 <table width="100%">
 <tr>
-<td width="20%">
-<b>Languages</b>
-</td>
+<td width="18%"><b>Languages</b></td>
 <td align="left">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
     <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity">
 </td>
 </tr>
 <tr>
-<td>
-<b>Backend</b>
+<td><b>AI / LLM</b></td>
+<td align="left">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+    <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+    <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG">
+    <img src="https://img.shields.io/badge/Vector_DB-FF6F61?style=for-the-badge&logo=pinecone&logoColor=white" alt="Vector DB">
+    <img src="https://img.shields.io/badge/LLMOps-8A2BE2?style=for-the-badge&logo=mlflow&logoColor=white" alt="LLMOps">
 </td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
 <td align="left">
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
     <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI">
@@ -88,82 +91,99 @@ Here are some of the technologies I'm proficient in and enjoy working with:
     <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
     <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">
 </td>
 </tr>
 <tr>
-<td>
-<b>Frontend</b>
-</td>
+<td><b>Frontend</b></td>
 <td align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
-<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js">
-<img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="axios">
-<img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+    <img src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js">
 </td>
 </tr>
 <tr>
-<td>
-<b>Databases</b>
-</td>
+<td><b>Databases</b></td>
 <td align="left">
-<img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MSSQL">
+    <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite">
 </td>
 </tr>
 <tr>
-<td>
-<b>DevOps & Tools</b>
-</td>
+<td><b>DevOps & Cloud</b></td>
 <td align="left">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-<img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" alt="Prometheus">
-<img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services">
-<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" alt="swagger">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
+    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
+    <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
+    <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" alt="Prometheus">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </td>
 </tr>
 </table>
 
-<div align="left">
-<h2>💻 Professional Experience</h2>
+---
 
-- Software Engineer 2 - Applied AI @ Intuit (May 2025 - Present)
-- Software Development Engineer @ Razorpay (Aug 2024 - May 2025)
-- Software Engineer @ Zeiss (Jul 2023 - Jul 2024)
+## 💼 Professional Experience
 
+| Role | Company | Period |
+|------|---------|--------|
+| **Software Engineer 2 – Applied AI** | Intuit | May 2025 – Present |
+| **Software Development Engineer** | Razorpay | Aug 2024 – May 2025 |
+| **Software Engineer** | Carl Zeiss AG | Jul 2023 – Jul 2024 |
+| **Full Stack Developer Intern** | HackerEarth | Mar 2022 – Dec 2022 |
+| **R&D Intern** | Samsung R&D Institute (SRI-B) | Aug 2021 – Feb 2022 |
+| **SDE Intern** | DataChannel | Mar 2021 – Jun 2021 |
 
-<h2>🏆 Competitive Programming & GitHub Stats:</h2>
+---
 
-I'm an active competitive programmer and love solving challenging problems.
+## 🏆 Competitive Programming
 
-- Google Kickstart '22 (E): Global Rank 209
-- Codeforces: Expert (Max Rating: 1600+)
-- LeetCode: Knight (Max Rating: 1900+)
-- HackerRank: 6 ★ (Problem Solving)
+I'm an active competitive programmer and love solving challenging algorithmic problems.
+
+| Platform | Achievement |
+|----------|-------------|
+| **Google Kickstart '22 (Round E)** | Global Rank **209** |
+| **Codeforces** | Expert · Max Rating **1600+** |
+| **LeetCode** | Knight · Max Rating **1900+** |
+| **HackerRank** | 6★ Problem Solving |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Amulya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amulyavarshney&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/amulyavarshney)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amulyavarshney&layout=compact&hide_border=true&count_private=true&theme=transparent)](https://github.com/amulyavarshney)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amulyavarshney&theme=transparent&hide_border=true)](https://github.com/amulyavarshney)
+
 </div>
 
-  [![Amulya's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amulyavarshney&show_icons=true&hide_border=true&count_private=true&theme=transparent)](https://github.com/amulyavarshney/github-readme-stats)
+---
 
-## Contribution Stack
+## 🗂️ Featured Projects
 
-![Amulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amulyavarshney&show_icons=true&theme=transparent&hide_border=true)
-![Amulya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amulyavarshney&show_icons=true&theme=cobalt&hide_border=true)
+| Project | Category | Stack |
+|---------|----------|-------|
+| [Resource Management System](https://rms-portal.azurewebsites.net) | Web App | React, Node.js, Azure |
+| [Book Catalog Microservice](https://github.com/amulyavarshney/AspNetCore6.Microservices.BookCatalog) | Backend | .NET 6, RabbitMQ, MongoDB |
+| [OS Algorithms Visualizer](https://github.com/amulyavarshney/OS-Algorithm-Visualizer) | Web App | JavaScript, HTML/CSS |
+| [Onchain Doc Editor](https://github.com/amulyavarshney/Dynamic-Storage-Auditing-In-Blockchain) | Blockchain | Solidity, Web3.js |
+| [C Share](https://github.com/amulyavarshney/C-Share) | Web App | React, Node.js |
 
-<br />
+---
 
-⭐️ More information about me can be found on my portfolio website: [Amulya Varshney](https://amulyavarshney.github.io/).
+⭐️ More on my portfolio: [amulyavarshney.github.io](https://amulyavarshney.github.io/)
