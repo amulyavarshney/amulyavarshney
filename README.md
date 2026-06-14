@@ -210,7 +210,7 @@ I'm an active competitive programmer and love solving challenging algorithmic pr
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amulyavarshney&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/amulyavarshney)
+[![trophy](https://github-readme-trophy.vercel.app/?username=amulyavarshney&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/amulyavarshney)
 
 </div>
 
