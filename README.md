@@ -40,6 +40,9 @@ Feel free to take inspiration from it, but please give credit.
     <a href="https://amulyavarshney.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
+    <a href="https://medium.com/@amulyavarshney7" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
 </div>
 
 <br>
@@ -227,6 +230,56 @@ I'm an active competitive programmer and love solving challenging algorithmic pr
 | [C Share](https://github.com/amulyavarshney/C-Share) | Web App | React, Node.js |
 
 ---
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- Medium posts — update manually or wire up a GitHub Action to auto-refresh -->
+| Title | Date |
+|-------|------|
+| [Stop Writing the Same Prompt Every Day](https://medium.com/@amulyavarshney7/stop-writing-the-same-prompt-every-day-9860a9a62768) | Jun 2026 |
+| [Your AI Coding Agent Can Read Your Code. It Still Doesn't Know Your Product.](https://medium.com/@amulyavarshney7/your-ai-coding-agent-can-read-your-code-it-still-doesnt-know-your-product-f7fc702deb4e) | May 2026 |
+| [The .claude Folder Is Where Claude Code Actually Lives](https://medium.com/@amulyavarshney7/the-claude-folder-is-where-claude-code-actually-lives-11f0e478a316) | May 2026 |
+
+<div align="center">
+  <a href="https://medium.com/@amulyavarshney7" target="_blank">
+    <img src="https://img.shields.io/badge/More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
+
+---
+
+## 🌐 Open Source & Notable Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 AI / GenAI**
+- [**Agent Assemble**](https://github.com/amulyavarshney/Agent_Assemble) — A2A agent with MCP server for USPSTF-aligned preventive care gap analysis; built for Agents Assemble hackathon
+- [**DocDive**](https://github.com/amulyavarshney/DocDive) — LLM-powered document search & Q&A platform (RAG, TypeScript)
+- [**VitalPlan**](https://github.com/amulyavarshney/VitalPlan) — AI-powered diet planner with food scanning & nutrition tracking
+
+**⚙️ Systems & Backend**
+- [**Temporal Order Fulfillment**](https://github.com/amulyavarshney/Temporal-Order-Fulfillment-Application) — Resilient e-commerce order workflows using Temporal (Java)
+- [**Book Catalog Microservice**](https://github.com/amulyavarshney/AspNetCore6.Microservices.BookCatalog) — .NET 6 microservices with RabbitMQ & MongoDB
+
+</td>
+<td width="50%">
+
+**🎓 Learning Resources**
+- [**Design Patterns in C#**](https://github.com/amulyavarshney/Design-Patterns-in-CSharp) — Creational, structural & behavioral patterns with examples
+- [**Machine Coding Round Projects**](https://github.com/amulyavarshney/Machine-Coding-Round-Projects) — Low-level system design implementations
+- [**ML for PDEs**](https://github.com/amulyavarshney/Maching-Learning-for-PDEs) — Physics-informed ML for Heat, Burgers & Navier-Stokes equations
+
+**🌍 Web & Blockchain**
+- [**Climate Action Tracker**](https://github.com/amulyavarshney/Climate-Action-Tracker) — Decentralized climate gamification with CLMT tokens & AI verification
+- [**Resource Management System**](https://github.com/amulyavarshney/Resource-Management-System) — Full-stack project tracker with dashboards & admin controls
+
+</td>
+</tr>
+</table>
 
 ---
 
