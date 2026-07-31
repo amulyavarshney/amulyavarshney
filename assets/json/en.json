@@ -2,14 +2,14 @@
   "nickname": "Amulya",
   "greeting_msg": "Hello, I'm",
   "name": "Amulya Varshney",
-  "role": "AI Software Engineer 2 - Intuit, India",
+  "role": "Software Engineer - Carl Zeiss AG, India",
   "experience": "Experience",
-  "experience_value": "3+ Years",
+  "experience_value": "1+ Year",
   "completed": "Completed",
   "completed_value": "10+ Projects",
   "worked": "Worked",
-  "worked_value": "5+ Companies",
-  "about_description": "AI Software Engineer building production-grade multi-agent systems, RAG pipelines, and LLMOps infrastructure. Experienced in LangGraph, tool calling, guardrails, and scalable backend systems across Intuit, Razorpay, and Zeiss.",
+  "worked_value": "3+ Companies",
+  "about_description": "Highly motivated Software Engineer, working on full stack development. Loves creating complex Web Applications and combining them into fully functional apps. Familiar with Cloud and Distributed Systems",
   "download_cv": "Download CV",
   "contact_me": "Contact Me",
 
@@ -26,62 +26,62 @@
           "number": "90%"
         },
         {
-          "name": "Go",
+          "name": "C#",
+          "number": "85%"
+        },
+        {
+          "name": "C/C++",
+          "number": "75%"
+        },
+        {
+          "name": "JavaScript/TypeScript",
           "number": "80%"
         },
         {
           "name": "Java",
-          "number": "80%"
-        },
-        {
-          "name": "JavaScript/TypeScript",
-          "number": "85%"
-        },
-        {
-          "name": "C++/C#",
-          "number": "75%"
+          "number": "70%"
         }
       ]
     },
     {
-      "title": "AI & LLM",
-      "subtitle": "Production systems",
+      "title": "Frontend",
+      "subtitle": "More than 2 year",
       "logo": "bx bx-code-alt",
       "data": [
         {
-          "name": "LangGraph / LangChain",
+          "name": "HTML/CSS",
           "number": "90%"
         },
         {
-          "name": "RAG & Agent Memory",
+          "name": "JavaScript/TYpeScript",
           "number": "90%"
         },
         {
-          "name": "MCP / A2A / Tool Calling",
-          "number": "85%"
+          "name": "React.js",
+          "number": "80%"
         },
         {
-          "name": "LLMOps & Evaluation",
-          "number": "85%"
+          "name": "Next.js",
+          "number": "90%"
         }
       ]
     },
     {
       "title": "Backend",
-      "subtitle": "More than 3 years",
+      "subtitle": "More than 2 year",
       "logo": "bx bxs-server",
       "data": [
         {
+          "name": "Node.js",
+          "number": "80%"
+        },
+        {
+          "name": "Django",
+          "number": "75%"
+        },
+        {
           "name": "FastAPI",
           "number": "90%"
-        },
-        {
-          "name": "Node.js / React",
-          "number": "85%"
-        },
-        {
-          "name": "gRPC / Kafka / Temporal",
-          "number": "80%"
         }
       ]
     }
@@ -96,7 +96,7 @@
       "data": [
         {
           "title": "B.Tech in CSE",
-          "subtitle": "IIIT - Naya Raipur (CGPA 9.23/10)",
+          "subtitle": "IIIT - Naya Raipur",
           "calender": "2019-2023"
         },
         {
@@ -121,19 +121,14 @@
       "logo": "bx bxs-briefcase",
       "data": [
         {
-          "title": "AI Software Engineer 2",
-          "subtitle": "Intuit - Bangalore",
-          "calender": "May 2025 - Present"
-        },
-        {
-          "title": "SDE - AI Platform",
-          "subtitle": "Razorpay - Bangalore",
-          "calender": "Aug 2024 - May 2025"
-        },
-        {
           "title": "Software Engineer",
-          "subtitle": "Zeiss - Bangalore",
-          "calender": "Jan 2023 - Jul 2024"
+          "subtitle": "Zeiss - India",
+          "calender": "Jul 2023 - Present"
+        },
+        {
+          "title": "Software Engineer Intern",
+          "subtitle": "Zeiss - India",
+          "calender": "Jan 2023 - Jun 2023"
         },
         {
           "title": "Full Stack Developer Intern",
@@ -158,62 +153,74 @@
   "experience_subtitle": "My Abilities",
   "experience_content": [
     {
-      "title": "AI Software Engineer 2",
-      "subtitle": "Intuit",
+      "title": "Software Engineer",
+      "subtitle": "Zeiss",
       "data": [
         {
-          "name": "Multi-Agent Systems",
-          "level": "LangGraph, Tool Calling, Guardrails"
+          "name": "Languages",
+          "level": "C#, JavaScript, TypeScript"
         },
         {
-          "name": "RAG & Memory",
-          "level": "Vector Search, Agent Memory, Context"
+          "name": "Web Development",
+          "level": "React, Next.js, Node.js, Tailwind CSS"
         },
         {
-          "name": "LLMOps",
-          "level": "Langfuse, Prompt Tracing, Evaluation"
+          "name": "Backend Development",
+          "level": "ASP.NET, .NET Core, Entity Framework"
         },
         {
-          "name": "Backend & Infra",
-          "level": "Python, Inference Optimization, Caching"
+          "name": "Microservice Communication",
+          "level": "REST API, RabbitMQ, gRPC"
         },
         {
-          "name": "Domain",
-          "level": "QuickBooks Payroll & Tax Platform"
+          "name": "Database",
+          "level": "MS SQL, SSMS, MongoDB"
         },
         {
-          "name": "Reliability",
-          "level": "Retries, Routing, Zero-downtime Migrations"
+          "name": "Cloud Infrastructure",
+          "level": "Microsoft Azure"
+        },
+        {
+          "name": "Internal Tools",
+          "level": "Zeiss ID, Global Mail API"
+        },
+        {
+          "name": "Version Control",
+          "level": "Git, Azure DevOps"
+        },
+        {
+          "name": "API Documentation",
+          "level": "Postman, Swagger"
         }
       ]
     },
     {
-      "title": "SDE - AI Platform",
-      "subtitle": "Razorpay",
+      "title": "Full Stack Developer",
+      "subtitle": "Hackerearth",
       "data": [
         {
-          "name": "Enterprise AI Agent",
-          "level": "Ray — LLM Support Automation"
+          "name": "Languages",
+          "level": "Python, JavaScript"
         },
         {
-          "name": "Orchestration",
-          "level": "LangGraph, FastAPI, Multi-Agent Workflows"
+          "name": "Frameworks",
+          "level": "jQuery, Django, FastAPI"
         },
         {
-          "name": "Evaluation",
-          "level": "Go-based LLM Evaluation Framework"
+          "name": "Database",
+          "level": "SQL, MongoDB"
         },
         {
-          "name": "Quality Metrics",
-          "level": "Accuracy, Safety, Compliance Scoring"
+          "name": "Internal Tools",
+          "level": "Code Checker, Code Factory Server"
         },
         {
-          "name": "Impact",
-          "level": "70%+ Support Automation, 40% Quality Lift"
+          "name": "Cloud Infrastructure",
+          "level": "AWS"
         },
         {
-          "name": "Stack",
-          "level": "Python, Go, FastAPI, LLMs"
+          "name": "Tools and Platform",
+          "level": "Linux, Docker, Bash Script"
         }
       ]
     }
